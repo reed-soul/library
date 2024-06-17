@@ -1,0 +1,21 @@
+[submodule "vite"]
+	path = f2e/vite
+	url = git@github.com:vitejs/vite.git
+[submodule "element-plus"]
+	path = f2e/element-plus
+	url = git@github.com:element-plus/element-plus.git
+[submodule "vue-vben-admin"]
+	path = f2e/vue-vben-admin
+	url = git@github.com:vbenjs/vue-vben-admin.git
+[submodule "vue-vben-admin-doc"]
+	path = f2e/vue-vben-admin-doc
+	url = git@github.com:vbenjs/vue-vben-admin-doc.git
+[submodule "vue-pure-admin"]
+	path = f2e/vue-pure-admin
+	url = git@github.com:pure-admin/vue-pure-admin.git
+[submodule "vuestic-admin"]
+	path = f2e/vuestic-admin
+	url = git@github.com:epicmaxco/vuestic-admin.git
+[submodule "pure-admin-doc"]
+	path = f2e/pure-admin-doc
+	url = git@github.com:pure-admin/pure-admin-doc.git
