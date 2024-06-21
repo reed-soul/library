@@ -4,7 +4,7 @@
 
 ## 加载子模块
 ```shell
-git submodule add --name vuestic-admin git@github.com:epicmaxco/vuestic-admin.git f2e/vuestic-admin
+git submodule add  git@github.com:sophiamyang/tutorials-LangChain.git llm/tutorials-LangChain
 
 ```
 

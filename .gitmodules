@@ -19,3 +19,6 @@
 [submodule "pure-admin-doc"]
 	path = f2e/pure-admin-doc
 	url = git@github.com:pure-admin/pure-admin-doc.git
+[submodule "llm/tutorials-LangChain"]
+	path = llm/tutorials-LangChain
+	url = git@github.com:sophiamyang/tutorials-LangChain.git
