@@ -4,7 +4,7 @@
 
 ## 加载子模块
 ```shell
-git submodule add  git@github.com:sophiamyang/tutorials-LangChain.git llm/tutorials-LangChain
+git submodule add  git@github.com:liguodongiot/llm-action.git llm/llm-action
 
 ```
 

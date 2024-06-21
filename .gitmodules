@@ -22,3 +22,12 @@
 [submodule "llm/tutorials-LangChain"]
 	path = llm/tutorials-LangChain
 	url = git@github.com:sophiamyang/tutorials-LangChain.git
+[submodule "webgis/turf"]
+	path = webgis/turf
+	url = git@github.com:Turfjs/turf.git
+[submodule "llm/llm-course"]
+	path = llm/llm-course
+	url = git@github.com:mlabonne/llm-course.git
+[submodule "llm/llm-action"]
+	path = llm/llm-action
+	url = git@github.com:liguodongiot/llm-action.git
