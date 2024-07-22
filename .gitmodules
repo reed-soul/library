@@ -31,3 +31,6 @@
 [submodule "llm/llm-action"]
 	path = llm/llm-action
 	url = git@github.com:liguodongiot/llm-action.git
+[submodule "docs/Refactoring2-zh"]
+	path = docs/Refactoring2-zh
+	url = git@github.com:NxeedGoto/Refactoring2-zh.git
