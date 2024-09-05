@@ -31,3 +31,18 @@
 [submodule "llm/llm-action"]
 	path = llm/llm-action
 	url = git@github.com:liguodongiot/llm-action.git
+[submodule "web3d/threejs"]
+	path = web3d/threejs
+	url = git@github.com:mrdoob/three.js.git
+[submodule "web3d/awesome-webgpu"]
+	path = web3d/awesome-webgpu
+	url = git@github.com:mikbry/awesome-webgpu.git
+[submodule "f2e/vueuse"]
+	path = f2e/vueuse
+	url = git@github.com:vueuse/vueuse.git
+[submodule "f2e/vue-motion"]
+	path = f2e/vue-motion
+	url = git@github.com:vueuse/motion.git
+[submodule "f2e/vue-gesture"]
+	path = f2e/vue-gesture
+	url = git@github.com:vueuse/gesture.git
