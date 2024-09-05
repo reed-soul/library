@@ -31,6 +31,7 @@
 [submodule "llm/llm-action"]
 	path = llm/llm-action
 	url = git@github.com:liguodongiot/llm-action.git
+<<<<<<< HEAD
 [submodule "web3d/threejs"]
 	path = web3d/threejs
 	url = git@github.com:mrdoob/three.js.git
@@ -46,3 +47,8 @@
 [submodule "f2e/vue-gesture"]
 	path = f2e/vue-gesture
 	url = git@github.com:vueuse/gesture.git
+=======
+[submodule "docs/Refactoring2-zh"]
+	path = docs/Refactoring2-zh
+	url = git@github.com:NxeedGoto/Refactoring2-zh.git
+>>>>>>> a93633d6846c6678cc9781f8b27ca57149b578a1
